@@ -35,3 +35,5 @@ class ReactTable extends React.Component {
             </table>);
   }
 }
+
+export default ReactTable;
