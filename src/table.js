@@ -1,3 +1,4 @@
+'use strict';
 
 class ReactTable extends React.Component {
 
